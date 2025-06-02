@@ -6,6 +6,10 @@
     "luafun": {
       "uuid": "06ce5606-8bec-430d-814b-335ce346507b",
       "giturl": "git@github.com:simkinetic/luafun.git"
+    },
+    "terratest": {
+      "uuid": "4510efb2-5399-47b1-a173-7e7c2ca7b288",
+      "giturl": "git@github.com:simkinetic/terratest.git"
     }
   }
 }
