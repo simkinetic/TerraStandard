@@ -1,9 +1,0 @@
-{
-  "name": "luafun",
-  "uuid": "06ce5606-8bec-430d-814b-335ce346507b",
-  "language": "lua",
-  "version": "v1.0.1",
-  "giturl": "git@github.com:simkinetic/luafun.git",
-  "sha1": "b52ffaa90ffee392bd86bd6512c0bcb78b1806eb",
-  "deps": {}
-}
