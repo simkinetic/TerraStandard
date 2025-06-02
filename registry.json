@@ -2,5 +2,10 @@
   "name": "TerraStandard",
   "uuid": "7bc30e2c-8fc4-4f47-9c4e-007c904154be",
   "giturl": "git@github.com:simkinetic/TerraStandard.git",
-  "packages": {}
+  "packages": {
+    "terratest": {
+      "uuid": "4510efb2-5399-47b1-a173-7e7c2ca7b288",
+      "giturl": "https://github.com/simkinetic/terratest.git"
+    }
+  }
 }
