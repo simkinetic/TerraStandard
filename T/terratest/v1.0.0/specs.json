@@ -1,0 +1,8 @@
+{
+  "name": "terratest",
+  "uuid": "4510efb2-5399-47b1-a173-7e7c2ca7b288",
+  "version": "v1.0.0",
+  "giturl": "git@github.com:simkinetic/terratest.git",
+  "sha1": "ded28ce619ac22af6e5192724b4e257e545f7cc0",
+  "deps": {}
+}
