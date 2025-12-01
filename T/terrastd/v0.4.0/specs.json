@@ -1,0 +1,13 @@
+{
+  "name": "terrastd",
+  "uuid": "d38cb13b-f524-4528-8350-3eaccb42afc5",
+  "version": "v0.4.0",
+  "giturl": "git@github.com:simkinetic/terrastd.git",
+  "sha1": "0394214d267c5e7ffedb542a73f3f3e6d83c0df4",
+  "deps": {
+    "4510efb2-5399-47b1-a173-7e7c2ca7b288@v1": {
+      "name": "terratest",
+      "version": "v1.0.1"
+    }
+  }
+}
